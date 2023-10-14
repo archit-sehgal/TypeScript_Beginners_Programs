@@ -6,12 +6,9 @@ To run TypeScript programs, you need to have TypeScript installed on your machin
 If you don't have Node.js and npm installed, you can download and install them from the official website: Node.js.<br/>
 npm install -g typescript
 <br/>
-
 <h2>Clone the Repository</h2>
 <br/>git clone <repository-url>
-
 <br/>
-
 <h2>Navigate to the Repository Directory: </h2><br/>
 cd repository-directory
 <br/>
