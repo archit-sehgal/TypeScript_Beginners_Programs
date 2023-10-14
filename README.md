@@ -12,7 +12,7 @@ npm install -g typescript
 <h2>Navigate to the Repository Directory: </h2>
 cd repository-directory
 <br/>
-<h2>Run TypeScript Programs</h2><br/>
+<h2>Run TypeScript Programs</h2>
 tsc program.ts
 <br/>
 <h2>Execute JavaScript Programs</h2>
