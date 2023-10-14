@@ -9,12 +9,12 @@ npm install -g typescript
 <h2>Clone the Repository</h2>
 <br/>git clone <repository-url>
 <br/>
-<h2>Navigate to the Repository Directory: </h2><br/>
+<h2>Navigate to the Repository Directory: </h2>
 cd repository-directory
 <br/>
 <h2>Run TypeScript Programs</h2><br/>
 tsc program.ts
 <br/>
-<h2>Execute JavaScript Programs</h2><br/>
+<h2>Execute JavaScript Programs</h2>
 node main.js<br/>
 or ts-node main.ts
