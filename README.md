@@ -7,7 +7,7 @@ If you don't have Node.js and npm installed, you can download and install them f
 npm install -g typescript
 <br/>
 <h2>Clone the Repository</h2>
-<br/>git clone <repository-url>
+git clone <repository-url>
 <br/>
 <h2>Navigate to the Repository Directory: </h2>
 cd repository-directory
